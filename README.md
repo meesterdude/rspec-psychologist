@@ -1,4 +1,4 @@
-# RSpec::Psychologist - True healing comes from the code itself
+# RSpec::Psychologist - Self-help for failing tests
 
 💆💆  A hackweek project in celebration of mental health awareness month 💆💆 
 
