@@ -10,7 +10,7 @@ It is intended for a specific kind of testing, where you have strict inputs and 
 
 By using RSpec::Psychologist for these kinds of tests, tests can be automatically updated in the future when the underlying data has changed. Simply run rspec like `OPEN_TO_SUGGESTIONS=true rspec ...` 
 
-## Installation
+## Installation (TODO)
 
 Add this line to your application's Gemfile:
 
